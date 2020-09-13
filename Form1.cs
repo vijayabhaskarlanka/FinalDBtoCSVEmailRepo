@@ -24,6 +24,7 @@ namespace FinalDBToCSV
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //Vijay made all the changes , Vinisha just created the project. She did not do much on this.
             StringBuilder sb = new StringBuilder();
             DataTable dt = GetData();
             //this is for columns display
